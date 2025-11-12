@@ -12,7 +12,7 @@
 </p>
 
 - 💻 I ~like~ **love** Data.
-- 🔭 I’m currently working on **BZM Graphics Ltd**
+- 🔭 I’m currently working on **Anwar Group of Industries**
 - 🌱 I’m currently learning **Data Science**
 - 📫 How to reach me **asmmorshedulhoque@gmail.com**
 - Checkout my portfolio <a href="https://morshedulhoque.vercel.app/" target="blank">Website</a>
